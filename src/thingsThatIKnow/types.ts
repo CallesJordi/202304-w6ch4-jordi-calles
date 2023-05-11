@@ -3,7 +3,7 @@ export interface ThingThatiKnowStructure {
 }
 
 export interface ThingsThatiKnowDataStructure extends ThingThatiKnowStructure {
-  id: string;
+  id: number;
 }
 
 export interface ThingsThatiKnowApiStructure {
